@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eephaiquo.fordwood.com/sitemap.xml
